@@ -1,4 +1,4 @@
-![Header](.Probe_Maker.png)
+(./Probe_Maker.png)
 
 
 # Dependencies 
