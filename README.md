@@ -50,4 +50,5 @@ Usage:
 # Output
 The final designed probe can be accessed via *_final_probe.fasta* inside specified output directory.  In the cases that needs to spike in or requires to add additional probes, please consult with *_blast_candidates.txt* (regions that passed Blastn filter) and *_probes_candidates.fasta* (that has fasta sequences for every possible probe sequences) inside cache folder. 
 
+The example output shown here is for AMA1 gene.
 
