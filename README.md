@@ -1,6 +1,6 @@
 ![Header](./Probe_Maker.png)
 
-Authors: Myo Naung, Somya Menhra
+author: Myo Naung, Somya Menhra
 
 # Dependencies 
 
