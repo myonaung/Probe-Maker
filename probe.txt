@@ -1,0 +1,1 @@
+ref/PF3D7_1133400.fasta,PF3D7_1133400,Pf3D7_11_v3,1292966,1295724,/Users/naung.m/Documents/probe_maker_out
