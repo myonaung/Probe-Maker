@@ -28,9 +28,11 @@ make all
 
 Each step of the software can be run separately given that the required input for each step has completed.
 
-
 ```
 make help
+```
+
+```
 Usage:
   make all                      #entire pipeline
 
