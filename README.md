@@ -22,7 +22,8 @@ First of all, **probe.txt** file is required to be replaced by the informations 
 After loading BLAST and R > 4.0 in the computation environment, Probe Maker can be executed as following:
 
 ```
-cd path_to_probe_maker
+git clone https://github.com/myonaung/Probe-Maker
+cd Probe-Maker
 make all
 ```
 
