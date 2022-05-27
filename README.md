@@ -1,4 +1,7 @@
-![Header](./images/Probe_Maker.png)
+<p align="center">
+  <img src="./images/Probe_Maker.png" height=40% >
+</p>
+
 
 ### Authors: Myo Naung, Somya Menhra
 
