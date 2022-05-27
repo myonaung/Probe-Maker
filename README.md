@@ -18,7 +18,7 @@ Probe Maker has built as executable program using Make and it is intended for de
 
 # Design algorithm
 
-As the hybridization takes place at 60°C based on [STAR-seq protocol](https://www.protocols.io/private/ACE2C16BC17D11EC94CE0A58A9FEAC02), we designed baits such that they had a melting temperature greater than this. Each probe is designed 500 nt apart. 
+As the hybridization takes place at 60°C based on [STAR-seq protocol](https://www.protocols.io/private/ACE2C16BC17D11EC94CE0A58A9FEAC02), we designed baits such that they had a melting temperature greater than this. Each probe is designed 500 nt apart. The algorithm designed the 120 bp probes to conserverd region based on database. Since the hybridization process between the probe and DNA fragment is tolerant to somme [mismatches](https://f1000research.com/articles/4-1062), we permitted seven mismatches out of 120 nt in the design.
 
 
 # Usage
