@@ -28,7 +28,7 @@ As the hybridization takes place at 60°C based on [STAR-seq protocol](https://w
   <img src="./images/hybridisation.png" height=30% >
 </p>
 
-<h3 align="center">Description of Probe-Maker algorithm</h3>
+<h4 align="center">Description of Probe-Maker algorithm</h4>
 
 # Usage
 
