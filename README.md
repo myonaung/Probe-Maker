@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/Probe_Maker.png" height=40% >
+  <img src="./images/Probe_Maker.png" height=40% width=60% >
 </p>
 
 
