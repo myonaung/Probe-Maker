@@ -25,10 +25,10 @@ As the hybridization takes place at 60°C based on [STAR-seq protocol](https://w
 3. Finding a set of the most suitable 120-mer probes to each gene with 500 bps apart.
 
 <p align="center">
-  <img src="./images/hybridisation.png" width=10% height=40% >
+  <img src="./images/hybridisation.png" height=40% >
 </p>
 
-<h1 align="center">Description of Probe-Maker algorithm</h1>
+<h3 align="center">Description of Probe-Maker algorithm</h3>
 
 # Usage
 
