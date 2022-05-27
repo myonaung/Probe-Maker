@@ -18,8 +18,11 @@ Probe Maker has built as executable program using Make and it is intended for de
 
 # Design algorithm
 
-As the hybridization takes place at 60°C based on [STAR-seq protocol](https://www.protocols.io/private/ACE2C16BC17D11EC94CE0A58A9FEAC02), we designed baits such that they had a melting temperature greater than this. Each probe is designed 500 nt apart. The algorithm designed the 120 bp probes to conserverd region based on database. Since the hybridization process between the probe and DNA fragment is tolerant to somme [mismatches](https://f1000research.com/articles/4-1062), we permitted seven mismatches out of 120 nt in the design. GC content was however ignored from the design. Probe-Maker checked for potential cross hybridisation with human and other major malaria species using *Blast*. Steps of the algorithm are as follow:
+As the hybridization takes place at 60°C based on [STAR-seq protocol](https://www.protocols.io/private/ACE2C16BC17D11EC94CE0A58A9FEAC02), we designed baits such that they had a melting temperature greater than this. Each probe is designed 500 nt apart. The algorithm designed the 120 bp probes to conserverd region based on database. Since the hybridization process between the probe and DNA fragment is tolerant to some [mismatches](https://f1000research.com/articles/4-1062), we permitted seven mismatches (i.e., 7 SNPs) out of 120 nt window in the design. GC content was however ignored from the design. Probe-Maker checked for potential cross hybridisation with human and other major malaria species using *Blast*. For each gene of interest, steps of the algorithm are as follow:
 
+1. Finding 120-mer conserved regions and calculating melting temperature of each region
+2. Removing regions that has potential cross hybridisation with human and other major malaria species using Blast. 
+3. Finding a set of the most suitable 120-mer probes to each gene with 500 bps apart.
 
 # Usage
 
