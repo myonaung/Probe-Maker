@@ -24,7 +24,11 @@ As the hybridization takes place at 60°C based on [STAR-seq protocol](https://w
 2. Removing regions that has potential cross hybridisation with human and other major malaria species using Blast. 
 3. Finding a set of the most suitable 120-mer probes to each gene with 500 bps apart.
 
-![Description of Probe-Maker algorithm](./images/hybridisation.png)
+<p align="center">
+  <img src="./images/hybridisation.png" width=10% height=40% >
+</p>
+
+<h1 align="center">Description of Probe-Maker algorithm</h1>
 
 # Usage
 
