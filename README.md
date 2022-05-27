@@ -1,4 +1,4 @@
-![Header](./Probe_Maker.png)
+![Header](./images/Probe_Maker.png)
 
 ### Authors: Myo Naung, Somya Menhra
 
@@ -23,6 +23,8 @@ As the hybridization takes place at 60°C based on [STAR-seq protocol](https://w
 1. Finding 120-mer conserved regions and calculating melting temperature of each region
 2. Removing regions that has potential cross hybridisation with human and other major malaria species using Blast. 
 3. Finding a set of the most suitable 120-mer probes to each gene with 500 bps apart.
+
+(./images/hybridisation.png)
 
 # Usage
 
