@@ -15,7 +15,7 @@ Table of contents
 
 ## Authors 
 - [Myo T. Naung](https://github.com/myonaung) 
-- Somya Menhra
+- Somya Mehra
 
 ## Dependencies 
 
@@ -43,7 +43,7 @@ As the hybridization takes place at 60°C based on [STAR-seq protocol](https://w
   <img src="./images/hybridisation.png" height=30% >
 </p>
 
-<h4 align="center">Description of Probe-Maker algorithm</h4>
+<h4 align="center">Figure.1:Description of Probe-Maker algorithm</h4>
 
 # Usage
 
