@@ -2,17 +2,29 @@
   <img src="./images/Probe_Maker.png" height=40% width=60% >
 </p>
 
+Table of contents
+----------------
+  * [Authors](#authors)
+  * [Dependencies](#dependencies)
+  * [Description](#description)
+  * [Algorithm](#algorithm)
+  * [Usage](#usage)
+  * [Output](#output)
 
-### Authors: Myo Naung, Somya Menhra
 
-# Dependencies 
+
+## Authors 
+- [Myo T. Naung](https://github.com/myonaung) 
+- Somya Menhra
+
+## Dependencies 
 
 1. Nucleotide-Nucleotide BLAST 2.9.0+
 2. R version 4.0 and above
 3. automake/1.15 
 
 
-# Probe Maker 
+## Description 
 
 Probe Maker has built as executable program using Make and it is intended for design of probes for *Plasmodium falciparum* for long-read sequencing technologies. It is comprised of three main steps - initial probe findings to conserved regions, nucleotide blast, and final probe selection.  Based on the species would like to be designed, the following files (inside data directory) need to be changed accordingly.
 
