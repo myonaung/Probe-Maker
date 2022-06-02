@@ -15,7 +15,7 @@ Table of contents
 
 ## Authors 
 - [Myo T. Naung](https://github.com/myonaung) 
-- Somya Mehra
+- [Somya Mehra](https://github.com/somyamehra)
 
 ## Dependencies 
 
